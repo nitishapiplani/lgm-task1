@@ -1,0 +1,35 @@
+.card1{
+    margin-left: 190px;
+}
+.card2,.card1{
+    display: inline-block;
+}
+.card2{
+    margin-left: 60px;
+}
+.C1,.C2,.C3{
+    margin-top: 30PX;
+}
+.card3{
+    margin-left: 60px;
+}
+.LOGO1{
+    left: 500px;
+    opacity: 1;
+}
+.logo2{
+    left: 540px;
+    opacity: 0.2;
+}
+.logo3{
+    left: 570px;
+    opacity: 0.2;
+}
+.logo,.LOGO1,.logo2,.logo3{
+    position: relative;
+}
+.LOGO1,.logo2,.logo3{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+}

@@ -1,0 +1,46 @@
+.card1{
+    margin-left: 50px;
+}
+.card2,.card1,.card3{
+    display: inline-block;
+}
+.card1{
+    margin-left: 190px;
+}
+.card2,.card1{
+    display: inline-block;
+}
+.card2{
+    margin-left: 60px;
+}
+.card3{
+    margin-left: 60px;
+}
+.C1,.C2,.C3{
+    margin-top: 30PX;
+}
+.LOGO1,.logo3{
+    opacity: 0.2;
+}
+.logo2{
+    opacity: 1;
+}
+.LOGO1{
+    left: 500px;
+}
+.logo2{
+    left: 540px;
+
+}
+.logo3{
+    left: 570px;
+
+}
+.logo,.LOGO1,.logo2,.logo3{
+    position: relative;
+}
+.LOGO1,.logo2,.logo3{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+}

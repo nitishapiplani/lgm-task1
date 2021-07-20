@@ -1,0 +1,75 @@
+/* body, html {
+    height: 100%;
+    margin: 0;
+  }
+body{
+    background-image: url("images/cofeehousebg.jpg");
+    background-repeat: no-repeat;
+    height: 400%;
+    background-size: cover;
+    background-position: center;
+} */
+.img1{
+    width: 1345px;
+    opacity: 1;
+}
+.logo,.LOGO1,.logo2,.logo3{
+    position: relative;
+    opacity: 1;
+}
+.LOGO1,.logo2,.logo3{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    bottom: 165px;
+    opacity: 1;
+}
+.P1{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    opacity: 1;
+}
+.LOGO1{
+    left: 500px;
+}
+.logo2{
+    left: 540px;
+}
+.p2{
+    position: relative;
+    left: 470px;
+}
+.logo3{
+    left: 570px;
+}
+.card1{
+    margin-left: 190px;
+}
+.card2,.card1{
+    display: inline-block;
+}
+.card2{
+    margin-left: 90px;
+}
+.C1,.C2,.C3{
+    margin-top: 30PX;
+}
+#footer{
+    text-align: center;
+    background-color: #fff;
+    padding: 50px;
+}
+.ican{
+    margin: 20px 10px;
+    transition: transform .2s;
+}
+.ican:hover{
+-ms-transform: scale(1.5); /* IE 9 */
+-webkit-transform: scale(1.5); /* Safari 3-8 */
+transform: scale(4); 
+}
